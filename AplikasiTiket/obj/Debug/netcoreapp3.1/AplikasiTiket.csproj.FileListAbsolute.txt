@@ -1,0 +1,14 @@
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\bin\Debug\netcoreapp3.1\AplikasiTiket.exe
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\bin\Debug\netcoreapp3.1\AplikasiTiket.deps.json
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\bin\Debug\netcoreapp3.1\AplikasiTiket.runtimeconfig.json
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\bin\Debug\netcoreapp3.1\AplikasiTiket.runtimeconfig.dev.json
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\bin\Debug\netcoreapp3.1\AplikasiTiket.dll
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\bin\Debug\netcoreapp3.1\AplikasiTiket.pdb
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\obj\Debug\netcoreapp3.1\AplikasiTiket.csproj.AssemblyReference.cache
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\obj\Debug\netcoreapp3.1\AplikasiTiket.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\obj\Debug\netcoreapp3.1\AplikasiTiket.AssemblyInfoInputs.cache
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\obj\Debug\netcoreapp3.1\AplikasiTiket.AssemblyInfo.cs
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\obj\Debug\netcoreapp3.1\AplikasiTiket.csproj.CoreCompileInputs.cache
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\obj\Debug\netcoreapp3.1\AplikasiTiket.dll
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\obj\Debug\netcoreapp3.1\AplikasiTiket.pdb
+E:\semester 2\pemograman\praktikum\AplikasiTiket\AplikasiTiket\obj\Debug\netcoreapp3.1\AplikasiTiket.genruntimeconfig.cache
